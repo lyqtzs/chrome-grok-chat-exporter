@@ -1,5 +1,7 @@
 ## **Grok Chat Exporter: One-Click Chat Export in Multiple Formats**
 
+🌐 切换语言：[English](README.md) | [简体中文](README.zh-CN.md)
+
 Managing and sharing your Grok conversations just got a whole lot easier with the **Grok Chat Exporter** plugin. This powerful tool allows you to export your Grok chats in a variety of formats including PDF, HTML, Markdown, JSON, TXT, and Word. Whether you need to archive your chats, share them with colleagues, or analyze data, **Grok Chat Exporter** provides the flexibility you need.
 
 ![unnamed](https://github.com/user-attachments/assets/c4883d69-6dc1-4840-b5df-8e0e553dd010)
