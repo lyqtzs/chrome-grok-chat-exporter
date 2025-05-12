@@ -4,6 +4,10 @@
 
 使用 **Grok Chat Exporter** 插件，管理和分享 Grok 聊天记录变得前所未有的简单。这款强大的工具支持将你的 Grok 对话导出为多种格式，包括 PDF、HTML、Markdown、JSON、TXT 和 Word。无论你是需要归档聊天内容、与同事共享，还是进行数据分析，**Grok Chat Exporter** 都能为你提供所需的灵活性。
 
+👉 立即免费安装：
+[https://chromewebstore.google.com/detail/grok-%E8%81%8A%E5%A4%A9%E5%AF%BC%E5%87%BA%E5%99%A8/jnnlkkaidhngedlkogmbhodjlegcdggb](https://chromewebstore.google.com/detail/grok-%E8%81%8A%E5%A4%A9%E5%AF%BC%E5%87%BA%E5%99%A8/jnnlkkaidhngedlkogmbhodjlegcdggb)
+
+预览图： 
 ![unnamed](https://github.com/user-attachments/assets/c4883d69-6dc1-4840-b5df-8e0e553dd010)
 
 ### **什么是 Grok Chat Exporter？**
